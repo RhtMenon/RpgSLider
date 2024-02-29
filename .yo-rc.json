@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.0",
+    "libraryName": "rpg-slider-web-part-solution",
+    "libraryId": "0194ad31-cc2e-4776-8196-2b0cffa799bd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "RpgSliderWebPartSolution",
+    "solutionShortDescription": "RpgSliderWebPartSolution description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

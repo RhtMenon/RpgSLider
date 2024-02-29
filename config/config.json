@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "rpg-slider-web-part-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/rpgSliderWebPart/RpgSliderWebPartWebPart.js",
+          "manifest": "./src/webparts/rpgSliderWebPart/RpgSliderWebPartWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "RpgSliderWebPartWebPartStrings": "lib/webparts/rpgSliderWebPart/loc/{locale}.js"
+  }
+}

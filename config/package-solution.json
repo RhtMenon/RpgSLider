@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "rpg-slider-web-part-solution-client-side-solution",
+    "id": "0194ad31-cc2e-4776-8196-2b0cffa799bd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "RpgSliderWebPartSolution description"
+      },
+      "longDescription": {
+        "default": "RpgSliderWebPartSolution description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "rpg-slider-web-part-solution Feature",
+        "description": "The feature that activates elements of the rpg-slider-web-part-solution solution.",
+        "id": "b077a583-28ed-4004-9702-3abf1b2a963d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/rpg-slider-web-part-solution.sppkg"
+  }
+}
